@@ -14,8 +14,8 @@ pip3 install aiohttp beautifulsoup4 colorama
 python3 setup.py -o <archivo_de_dominios> -d <profundidad>
 ```
 
- ["-o", "--input"]: Archivo de entrada con dominios/subdominios
- ["-d", "--depth"]: Profundidad máxima para el crawl (default: 2)
+ - ["-o", "--input"]: Archivo de entrada con dominios/subdominios
+ - ["-d", "--depth"]: Profundidad máxima para el crawl (default: 2)
 
 - *Ejemplo:*
 
