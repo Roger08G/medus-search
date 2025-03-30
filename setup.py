@@ -15,7 +15,7 @@ init(autoreset=True)
 
 def banner():
     banner_text = f"""
-{Fore.PURPLE}{Style.BRIGHT}
+{Fore.MAGENTA}{Style.BRIGHT}
 
 
 ███╗░░░███╗███████╗██████╗░██╗░░░██╗░██████╗░░░░░░░██████╗███████╗░█████╗░██████╗░░█████╗░██╗░░██╗
